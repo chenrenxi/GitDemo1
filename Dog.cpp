@@ -21,3 +21,8 @@ void Dog::setName(string sname)
 {
     name = sname;
 }
+
+void Dog::bark()
+{
+    cout<<"I am "<<name<<endl;
+}
