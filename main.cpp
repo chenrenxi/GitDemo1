@@ -2,6 +2,8 @@
 
 using namespace std;
 
+#include "Dog.h"
+
 int main()
 {
     cout << "Hello world!" << endl;
@@ -10,6 +12,10 @@ int main()
     int b = 2;
     int c = a + b;
     cout << "c="<<c<<endl;
+
+	Dog d1;
+	d1.bark();
+
 
     return 0;
 }
