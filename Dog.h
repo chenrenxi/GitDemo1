@@ -10,7 +10,7 @@ class Dog
         Dog();
         virtual ~Dog();
         string getName();
-
+        void bark();
 
     protected:
         string name;
