@@ -16,3 +16,8 @@ string Dog::getName()
 {
     return name;
 }
+
+void Dog::setName(string sname)
+{
+    name = sname;
+}
