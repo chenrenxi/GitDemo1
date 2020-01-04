@@ -18,6 +18,7 @@ class Dog
         string name;
         int color;
     private:
+    
 };
 
 #endif // DOG_H
