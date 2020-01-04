@@ -16,7 +16,7 @@ int main()
 	Dog d1;
 	d1.bark();
 
-
+    cout<<"finished!"<<endl;
 
     return 0;
 }
