@@ -2,10 +2,12 @@
 
 using namespace std;
 
+
 #include "Dog.h"
 
 
 //this is a demo of github
+//cloned from the main
 int main()
 {
     cout << "Hello world!" << endl;
