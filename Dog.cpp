@@ -26,4 +26,5 @@ void Dog::bark()
 {
 
     cout<<"I am "<<name<<endl;
+	cout << "color " << color << endl;
 }
