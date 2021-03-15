@@ -17,6 +17,7 @@ class Dog
     protected:
         string name;
         int color;
+		int birthday;
     private:
     
 };
