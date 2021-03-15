@@ -4,10 +4,3 @@ this is a branch
 beans
 pizza
 
-eggs
-cabbage
->>>>>>> master
-
-cone
-curves
-
