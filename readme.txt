@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-this is a branch
-=======
-beans
-pizza
+change branch
 
