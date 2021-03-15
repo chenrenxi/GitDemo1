@@ -7,3 +7,7 @@ pizza
 eggs
 cabbage
 >>>>>>> master
+
+cone
+curves
+
