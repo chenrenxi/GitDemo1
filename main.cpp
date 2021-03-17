@@ -37,6 +37,7 @@ int main()
 	d2.bark();
 	
 	int d = add(a, b);
+	int f = multiply(a, b);
 
     cout<<"finished!"<<endl;
 
