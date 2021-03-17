@@ -26,6 +26,11 @@ int pow(int a, int b)
 	return 0;
 }
 
+//add by chenrenxi branch2
+int circle(int x, int y, int r)
+{
+}
+
 //this is a demo of github
 //cloned from the main
 int main()
