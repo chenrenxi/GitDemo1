@@ -6,6 +6,11 @@ using namespace std;
 #include "Dog.h"
 
 
+int multiply(int a, int b)
+{
+	return a*b;
+}
+
 //this is a demo of github
 //cloned from the main
 int main()
