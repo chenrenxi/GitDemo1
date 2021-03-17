@@ -35,6 +35,8 @@ int main()
 	Dog d1, d2;
 	d1.bark();
 	d2.bark();
+	
+	int d = add(a, b);
 
     cout<<"finished!"<<endl;
 
