@@ -5,6 +5,11 @@ using namespace std;
 
 #include "Dog.h"
 
+// function1
+int add(int a, int b)
+{
+	return a+b;
+}
 
 //this is a demo of github
 //cloned from the main
