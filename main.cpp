@@ -5,7 +5,7 @@ using namespace std;
 
 #include "Dog.h"
 
-int add(int a, int b)
+int add1(int a, int b)
 {
 	return a+b;
 }
