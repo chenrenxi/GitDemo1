@@ -20,6 +20,10 @@ int div(int a, int b)
 	return a/b;
 }
 
+//added by chenrenxi
+int pow(int a, int b)
+{
+}
 
 //this is a demo of github
 //cloned from the main
