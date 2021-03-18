@@ -32,6 +32,12 @@ int circle(int x, int y, int r)
 
 }
 
+//add by chenrenxi
+float du()
+{
+	
+}
+
 //this is a demo of github
 //cloned from the main
 int main()
