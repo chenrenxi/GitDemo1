@@ -53,7 +53,7 @@ int main()
 	d1.bark();
 	d2.bark();
 	
-	int d = add(a, b);
+	int d = add1(a, b);
 	int f = multiply(a, b);
 
     cout<<"finished!"<<endl;
