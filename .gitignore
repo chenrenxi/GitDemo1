@@ -4,4 +4,8 @@
 *.log
 *.tlog
 *.lastbuildstate
+*.pdb
+*.db
+*.ipch
+*.suo
 vc140.pdb
